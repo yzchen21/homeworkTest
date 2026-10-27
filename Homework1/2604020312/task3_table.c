@@ -1,4 +1,12 @@
-﻿#include <stdio.h>
+﻿/*
+ * 学号：2604020312
+ * 姓名：余梓宸
+ * 班级：26电子信息工程3班
+ * 题目：Task 3 格式化表格
+ * 说明：用 printf 的宽度修饰符输出一张对齐的商品价目表
+ * 环境：Visual Studio / MSVC x64，源文件编码 UTF-8
+ */
+#include <stdio.h>
 int main()
 {
     printf("%6s %-12s %10s\n", "编号", "名称", "单价");

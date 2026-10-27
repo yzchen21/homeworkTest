@@ -1,4 +1,12 @@
-﻿#include <stdio.h>
+﻿/*
+ * 学号：2604020312
+ * 姓名：余梓宸
+ * 班级：26电子信息工程3班
+ * 题目：Task 2 基本数据类型
+ * 说明：定义 int / float / double / char 四种变量并输出，对比 float 与 double 的精度差异
+ * 环境：Visual Studio / MSVC x64，源文件编码 UTF-8
+ */
+#include <stdio.h>
 int main()
 {
     int     age     = 19;
